@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android Networking/apptruyentranh/app/src/main/res/layout/activity_danh_sach_truyen.xml" value="0.1716485507246377" />
+        <entry key="..\:/Android Networking/apptruyentranh/app/src/main/res/layout/activity_doc_truyen.xml" value="0.1716485507246377" />
+        <entry key="..\:/Android Networking/apptruyentranh/app/src/main/res/layout/activity_hello.xml" value="0.1403985507246377" />
+        <entry key="..\:/Android Networking/apptruyentranh/app/src/main/res/layout/activity_list_truyen_tranh.xml" value="0.1403985507246377" />
+        <entry key="..\:/Android Networking/apptruyentranh/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Android Networking/apptruyentranh/app/src/main/res/layout/activity_noi_dung_truyen.xml" value="0.1716485507246377" />
+        <entry key="..\:/Android Networking/apptruyentranh/app/src/main/res/layout/activity_noi_dung_truyen_tranh.xml" value="0.22" />
+        <entry key="..\:/Android Networking/apptruyentranh/app/src/main/res/layout/fragment_first.xml" value="0.1716485507246377" />
+        <entry key="..\:/Android Networking/apptruyentranh/app/src/main/res/layout/fragment_login.xml" value="0.1403985507246377" />
+        <entry key="..\:/Android Networking/apptruyentranh/app/src/main/res/layout/fragment_sign_up.xml" value="0.1403985507246377" />
+        <entry key="..\:/Android Networking/apptruyentranh/app/src/main/res/layout/item_lis_truyen.xml" value="0.1716485507246377" />
+        <entry key="..\:/Android Networking/apptruyentranh/app/src/main/res/layout/item_list_truyen.xml" value="0.22" />
+        <entry key="..\:/Android Networking/apptruyentranh/app/src/main/res/layout/item_list_truyen_tranh.xml" value="0.1403985507246377" />
+        <entry key="..\:/Android Networking/apptruyentranh/app/src/main/res/layout/item_noi_dung_truyen.xml" value="0.1716485507246377" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
